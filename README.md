@@ -29,3 +29,5 @@
    - After changing the password, close and re-run `JupiterRun.bat` to apply the changes.
 
 [Manual de Instrucciones en Español](README_ES.md)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z4HKF8C)
